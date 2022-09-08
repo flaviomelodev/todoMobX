@@ -1,3 +1,5 @@
+$ cat .gitattributes
+
 * linguist-vendored
 *.c++ linguist-vendored=false
 *.dart linguist-detectable=true
