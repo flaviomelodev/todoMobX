@@ -1,3 +1,1 @@
-$ cat .gitattributes
-
 *.C++ linguist-language=Dart
